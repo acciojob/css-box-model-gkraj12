@@ -2,9 +2,9 @@
 /* Your CSS Code here. */
 
 .box {
-    width: 984px;
-    background-color: lightblue;
-    border: 15px solid blue;
+    width: 300px;
+	background-color:rgb(173,216,230);
+    border: 15px solid rgb(0,0,255);
     padding: 50px;
     margin: 20px;
 	font-family: monospace;
